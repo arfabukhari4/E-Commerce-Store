@@ -4,6 +4,7 @@ Python-based E-Commerce Store with product catalog, shopping cart, inventory, or
 
 The **Professional E-Commerce Store Desktop Application** is a Python-based desktop shopping system developed using **Tkinter GUI**.
 
+
 The project demonstrates how Python can be used to build a complete desktop-based e-commerce workflow with a clean graphical interface and modular architecture.
 
 Users can register and log in, browse products, search and filter the catalog, add products to their cart or wishlist, manage orders, view their profile, and interact with different parts of the shopping system.
